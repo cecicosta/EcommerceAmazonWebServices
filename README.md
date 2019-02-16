@@ -4,7 +4,7 @@ AWS Eccomerce
 ### What is in this repository?
 Study implementing a simple ecommerce with Amazon Web Services. 
 
-** The following features are implemented:
+## The following features are implemented:
 
 * Register a new user;
 * Change data for an existing user;
@@ -18,9 +18,9 @@ Study implementing a simple ecommerce with Amazon Web Services.
 * List all existing products;
 
 
-** The following Technologies from AWS were used in this project:
+## The following Technologies from AWS were used in this project:
 
-* Amazon RDS for user and products database
-* Amazon S3 for storage management (e.x. user and products photos)
-* Amazon DynamoDB for operation's log register
+* Google App Engine to run the application
+* Cloud SQL for user and products database
+* Cloud Storage for storage management (e.x. user and products photos)
 * Amazon SES for automatic emails
