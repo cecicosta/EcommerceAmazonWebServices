@@ -20,7 +20,7 @@ Study implementing a simple ecommerce with Amazon Web Services.
 
 ## The following Technologies from AWS were used in this project:
 
-* Google App Engine to run the application
-* Cloud SQL for user and products database
-* Cloud Storage for storage management (e.x. user and products photos)
+* Amazon RDS for user and products database
+* Amazon S3 for storage management (e.x. user and products photos)
+* Amazon DynamoDB for operation's log register
 * Amazon SES for automatic emails
